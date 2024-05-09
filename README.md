@@ -4,7 +4,7 @@ Tech180's Personal NixOS Setup
 # ❄️ dotfiles
 
 ```mint
-⠀⠀   🌸 Setup / Hyprland 🌸
+       🌸 Setup / Hyprland 🌸
  -----------------------------------
  ╭─ Distro  -> NixOS
  ├─ Editor  -> Micro
