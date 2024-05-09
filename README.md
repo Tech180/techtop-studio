@@ -3,7 +3,7 @@ Tech180's Personal NixOS Setup
 
 # ❄️ dotfiles
 
-```black
+```mint
        🌸 Setup / Hyprland 🌸
  -----------------------------------
  ╭─ Distro  -> NixOS
