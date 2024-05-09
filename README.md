@@ -17,6 +17,7 @@ Tech180's Personal NixOS Setup
  ╰─ Resolution -> 1920x1080@120hz
  ╭─ WM       -> Hyprland
  ├─ Terminal -> Alacritty
+ ├─ Shell    -> Bash
  ├─ Theme    -> Custom
  ├─ Icons    -> Papirus-Dark
  ╰─ Font     -> JetBrains Mono Nerd Font
